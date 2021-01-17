@@ -2,9 +2,10 @@
 This is Telegram Chatbot which helps students to get their results easily.<br><br>This is implemented using **nodejs, npm Nightmare Package and Mongo DB**.
 <br><br>
 Mongo DB is used as a database to store details of the students<br><br>
-If the student first time use this chatbot he/she can give their College Registration number and Name then that student marks image will be displayed in that chatbot.<br><br>
 NPM nightmare package is used to open the specified website and fill the details automatically.It is also take the screenshot by itself.
-<br><br>If the student is already use this chatbot he/she give only their number then marks screenshot will be displayed.<br><br>
+<br><br>
+If the student first time use this chatbot he/she can give their College Registration number and Name then that student marks image will be displayed in that chatbot.<br><br>
+If the student is already use this chatbot he/she give only their number then marks screenshot will be displayed.<br><br>
 The student can update their details through this chatbot.
 <br><br>
 ## ChatBot Images
